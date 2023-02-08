@@ -37,3 +37,19 @@ puts decimals[1]
 # other than what is listed initially in the arrayc
 puts yes_no[0]
 # true
+
+## Learning new things
+# count call
+
+# count will count how many elements are in a given array
+p friends.count
+# 4
+
+# you can also count how many elements match a given object by placing parentheses after count
+p yes_no.count(false)
+# 2
+
+# you can also see how many times a block returns a true value
+## note to self: research what an item and a block is
+p numbers.count { |x| x%5 == 0}
+# 3
