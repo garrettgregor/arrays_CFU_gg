@@ -1,0 +1,6 @@
+- How confident do you feel with the content on Arrays so far?
+    - I feel pretty confident with the content on Arrays so far, but definitely could still use some work on the syntax.
+- Is there any additional learning you need or want to do before moving to the next lesson?
+    - I think that in order to work on the syntax, I might go back and try to pair up the arrays with a previous lesson or just go back and do the lesson again to remind myself.
+- What questions do you have about Arrays?
+    - Questions that I still have about arrays I think are more just reenforcements of the material we've gone over so that I can quickly recall things from memory and less about specific questions on the content. 
